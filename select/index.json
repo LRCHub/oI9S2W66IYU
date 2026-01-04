@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Forgive Me Friend",
+  "base_artist": "Smith & Thell",
+  "createdAt": "2026-01-04T13:05:51.135295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forgive Me Friend",
+      "artist": "Smith & Thell feat. Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/01_Forgive_Me_Friend_Smith_&_Thell_feat._Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith & Thell",
+      "has_synced": true,
+      "path": "select/02_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith_&_Thell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith & Thell",
+      "has_synced": true,
+      "path": "select/03_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith_&_Thell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forgive Me Friend",
+      "artist": "Smith",
+      "has_synced": true,
+      "path": "select/04_Forgive_Me_Friend_Smith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forgive Me Friend - Acoustic Version",
+      "artist": "Smith & Thell",
+      "has_synced": true,
+      "path": "select/05_Forgive_Me_Friend_-_Acoustic_Version_Smith_&_Thell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith",
+      "has_synced": true,
+      "path": "select/06_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forgive Me Friend",
+      "artist": "Smith & Thell",
+      "has_synced": false,
+      "path": "select/07_Forgive_Me_Friend_Smith_&_Thell.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forgive Me Friend",
+      "artist": "Smith & Thell feat. Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/08_Forgive_Me_Friend_Smith_&_Thell_feat._Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith & Thell/Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/09_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith_&_Thell_Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith & Thell",
+      "has_synced": true,
+      "path": "select/10_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith_&_Thell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith & Thell, Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/11_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith_&_Thell,_Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forgive Me Friend",
+      "artist": "Smith & Thell,Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/12_Forgive_Me_Friend_Smith_&_Thell,Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forgive me Friend - Acoustic in Isby",
+      "artist": "Smith & Thell",
+      "has_synced": true,
+      "path": "select/13_Forgive_me_Friend_-_Acoustic_in_Isby_Smith_&_Thell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forgive Me Friend",
+      "artist": "Smith & Thell, Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/14_Forgive_Me_Friend_Smith_&_Thell,_Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forgive Me Friend",
+      "artist": "Smith & Thell, Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/15_Forgive_Me_Friend_Smith_&_Thell,_Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith & Thell, Swedish Jam Factory",
+      "has_synced": true,
+      "path": "select/16_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith_&_Thell,_Swedish_Jam_Factory.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forgive Me Friend (feat. Swedish Jam Factory)",
+      "artist": "Smith & Thell",
+      "has_synced": false,
+      "path": "select/pl_01_Forgive_Me_Friend_(feat._Swedish_Jam_Factory)_Smith_&_Thell.txt"
+    }
+  ]
+}
